@@ -68,6 +68,8 @@ Ajoute un nouveau compte. Le corps de la requête doit contenir un objet JSON av
   "dateCreation": "2024-11-20",
   "type": "COURANT"
 }
+
+
 ## vidéo
 
 
