@@ -1,0 +1,114 @@
+/* App.css */
+
+/* Corps de la page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style du conteneur principal */
+div {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* En-tête */
+h1 {
+  color: #333;
+  text-align: center;
+  font-size: 2rem;
+}
+
+/* Table */
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+table th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+table td {
+  background-color: #f9f9f9;
+}
+
+table tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Boutons */
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Formulaire */
+form {
+  margin-top: 20px;
+}
+
+form div {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+form input, form select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+form input[type="number"], form input[type="date"], form select {
+  font-size: 1rem;
+}
+
+form button {
+  width: 100%;
+  background-color: #28a745;
+}
+
+form button:hover {
+  background-color: #218838;
+}
+
+/* Lien "Ajouter un compte" */
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
