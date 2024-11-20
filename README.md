@@ -15,6 +15,12 @@ Une application de gestion des comptes bancaires, permettant d'ajouter, afficher
 - **Java 11 ou supérieur** pour le backend Spring Boot
 - **MySQL** ou toute autre base de données compatible pour le backend (configurée dans Spring Boot)
 
+## vidéo
+https://github.com/user-attachments/assets/abd5c5d7-c454-486c-9520-f1b669f9345f
+
+
+
+
 ## Installation
 
 ### Frontend (React)
@@ -70,7 +76,7 @@ Ajoute un nouveau compte. Le corps de la requête doit contenir un objet JSON av
 }
 
 
-## vidéo
+
 
 
  
